@@ -40,7 +40,7 @@ export STRIP
 
 
 ## 재배포자
-엔텔스 porduct개발팀 
+엔텔스 product개발팀 
 
 * 이상훈
 * 오준호
